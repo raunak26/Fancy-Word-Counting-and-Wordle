@@ -1,5 +1,4 @@
-# ECS 32A
-# Assignment 6
+# fancy_word_counting.py
 # Raunak Anand
 # Word Counting Class
 from wordle import wordleFromObject
