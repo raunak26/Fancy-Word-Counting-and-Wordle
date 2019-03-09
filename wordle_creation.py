@@ -1,5 +1,4 @@
-# ECS 32A
-# Assignment 6
+# wordle_creation.py
 # Raunak Anand
 # Word Counting Class
 from wordle import wordleFromObject
